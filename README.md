@@ -23,6 +23,10 @@ Pythonがメインで、C++やFlutterなどは経験として触ったことが�
 [researchermap](https://researchmap.jp/wt501)  
 経歴や研究業績など。
 
+[徳島大学デザイン型AI教育研究センター](https://www.tokushima-u.ac.jp/ai/)
+
+[株式会社MILAI Technologies](https://milaitech.webnode.jp/)
+
 ## GitHub Status
 ![](https://github-readme-stats.vercel.app/api?username=wt501&count_private=true&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wt501&layout=compact&theme=dracula)
